@@ -1,0 +1,5 @@
+mkdir <nameof the directory >
+cd <dirName>
+git status :- for  checking the status of a  repository
+git init :- initialzation the local repo as  a git repository(.git folder)
+git init -b main :- changing the master to main

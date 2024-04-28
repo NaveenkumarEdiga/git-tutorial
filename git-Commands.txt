@@ -3,3 +3,7 @@ cd <dirName>
 git status :- for  checking the status of a  repository
 git init :- initialzation the local repo as  a git repository(.git folder)
 git init -b main :- changing the master to main
+git remote add origin <url of the repository> : -it will the add the origin(remote repo)
+git push origin <branch name> :- to push the code to master or some branch
+git checkout -b Feature-01 :- it create the feature branch
+git switch -c <branch name> :- it is also used for creating the feature branch
